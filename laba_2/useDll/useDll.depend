@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1451924929 source:c:\users\pc\documents\lab\usedll\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	"main.h"
+
+1451922048 c:\users\pc\documents\lab\usedll\main.h
+	<windows.h>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<string>
+	<vector>
+	<queue>
+	<cmath>
+
+1451924929 source:c:\users\pc\documents\github\labs_3_sem\labs_3_sem\laba_2\usedll\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	"main.h"
+
+1451922048 c:\users\pc\documents\github\labs_3_sem\labs_3_sem\laba_2\usedll\main.h
+	<windows.h>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<string>
+	<vector>
+	<queue>
+	<cmath>
+
