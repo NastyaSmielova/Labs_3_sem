@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1451905862 source:c:\users\pc\documents\problems\laba_4_3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/glut.h>
+	"shadow.h"
+
+1451905663 c:\users\pc\documents\problems\laba_4_3\shadow.h
+
+1451905862 source:c:\users\pc\documents\problems\laba_4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/glut.h>
+	"shadow.h"
+
+1451905663 c:\users\pc\documents\problems\laba_4\shadow.h
+
